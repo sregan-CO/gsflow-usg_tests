@@ -1,0 +1,21 @@
+#NAM FILE FOR INTB V4P3-1A
+LIST 8 .\output\INTB.OUT
+DISU 7 .\package_input\INTB.DISU
+BAS6 1 .\package_input\INTB.BAS6
+DATA 9 INTB.DBG                  NO-ARCHIVE
+BCF6 11 .\package_input\INTB.BCF6
+WEL 12 .\package_input\INTB.WEL
+RIV 13 .\package_input\INTB.RIV
+EVT 15 .\package_input\INTB.EVT
+RCH 18 .\package_input\INTB.RCH
+GHB 14 .\package_input\INTB.GHB
+OC 22 .\package_input\INTB.OC
+SMS 19 .\package_input\INTB.SMS
+DATA(BINARY) 50 .\output\INTB.cbb          NO-ARCHIVE
+DATA(BINARY) 30 .\output\INTB.hds          NO-ARCHIVE
+DATA(BINARY) 31 .\output\INTB.ddn          NO-ARCHIVE
+DATA(BINARY) 51 .\output\INTB.crv          NO-ARCHIVE
+DATA(BINARY) 52 .\output\INTB.cet          NO-ARCHIVE
+DATA(BINARY) 53 .\output\INTB.cwe          NO-ARCHIVE
+DATA(BINARY) 54 .\output\INTB.cgh          NO-ARCHIVE
+DATA(BINARY) 55 .\output\INTB.crc          NO-ARCHIVE
