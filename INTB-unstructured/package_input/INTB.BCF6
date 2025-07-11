@@ -1,0 +1,17 @@
+ 50 -9.999000e+03 0 1.000000e+00 0 0 0  0
+ 3 3 2
+INTERNAL  1.0  (FREE)  -1  Horizontal Anisotropy
+ 1.000000e+00
+ 1.000000e+00
+ 1.000000e+00
+OPEN/CLOSE intb1._s1   1.000000e+00  (FREE)  -1  S Layer 1
+OPEN/CLOSE intb1._kx   1.000000e+00  (FREE)  -1  Kx Layer 1
+OPEN/CLOSE intb1._kz   1.000000e+00  (FREE)  -1  VCONT Layer 1
+OPEN/CLOSE intb1._s2   1.000000e+00  (FREE)  -1  Sy Layer 1
+OPEN/CLOSE intb2._s1   1.000000e+00  (FREE)  -1  S Layer 2
+OPEN/CLOSE intb2._kx   1.000000e+00  (FREE)  -1  Kx Layer 2
+OPEN/CLOSE intb2._kz   1.000000e+00  (FREE)  -1  VCONT Layer 2
+OPEN/CLOSE intb2._s2   1.000000e+00  (FREE)  -1  Sy Layer 2
+OPEN/CLOSE intb3._s1   1.000000e+00  (FREE)  -1  S Layer 3
+OPEN/CLOSE intb3._kx   1.000000e+00  (FREE)  -1  Tx Layer 3
+OPEN/CLOSE intb3._s2   1.000000e+00  (FREE)  -1  Sy Layer 3
